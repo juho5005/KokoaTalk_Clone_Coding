@@ -74,6 +74,14 @@
   color: #ffb0e0;
 }
 
+.nav {
+  z-index: 1;
+}
+
+.open-post__column {
+  z-index: 2;
+}
+
 .open-post__photo {
   position: relative;
 }
