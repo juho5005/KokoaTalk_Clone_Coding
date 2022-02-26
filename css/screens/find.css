@@ -1,3 +1,7 @@
+.find__body {
+  height: 250vh;
+}
+
 .recommended-friends {
   margin: 25px 0px;
   padding: 25px 0px;
@@ -72,14 +76,6 @@
 
 .open-post__member-status {
   color: #ffb0e0;
-}
-
-.nav {
-  z-index: 1;
-}
-
-.open-post__column {
-  z-index: 2;
 }
 
 .open-post__photo {
